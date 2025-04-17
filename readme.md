@@ -1,3 +1,4 @@
-## Hello, Irene in Git!
+## Welcome to Git!
 
-I'm adding this from 'feature-branch-1'
+- This is coming from 'dev-irene'
+- I'm adding this from 'feature-branch-1'
