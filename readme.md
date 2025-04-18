@@ -1,4 +1,6 @@
-## Heyoo everyone, welcome to by guide!
+## Welcome to Git!
 
 - Yo, Johny here!
-I'm adding this from 'feature-branch-1'
+- This is coming from 'dev-irene'
+- I'm adding this from 'feature-branch'
+
