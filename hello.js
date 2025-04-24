@@ -1,5 +1,3 @@
 console.log('Hello, Irene');
 console.log('Hello, GitHub!');
-console.log('TRYING OUT REVERT!');
-
-
+console.log('Trying revert');
